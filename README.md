@@ -16,5 +16,5 @@
 [Исследование рынка заведений общественного питания](https://github.com/dvechkanova/training-projects/tree/main/Исследование%20рынка%20общественного%20питания)  
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации.
 
-[Построение дашбордов в Tableau](https://github.com/dvechkanova/training-projects/tree/main/Построение%20дашбордов%20в%20Tableau)
+[Построение дашбордов в Tableau](https://github.com/dvechkanova/training-projects/tree/main/Построение%20дашбордов%20в%20Tableau)  
 Исследуем историю TED-конференций и создадим дашборд в Tableau на основе полученных данных.
